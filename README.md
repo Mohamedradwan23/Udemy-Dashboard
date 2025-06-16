@@ -44,9 +44,3 @@ The analysis includes 15+ visuals, such as:
 - Ratings and reviews correlation
 - Subscribers by course level
 - Time-based trends (publish date vs. popularity)
-
-## 🚀 How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/udemy-courses-analysis.git
